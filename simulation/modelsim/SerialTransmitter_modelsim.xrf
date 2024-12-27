@@ -1,6 +1,6 @@
 vendor_name = ModelSim
-source_file = 1, D:/final_project/SerialTransmitter.vhd
-source_file = 1, D:/final_project/db/SerialTransmitter.cbx.xml
+source_file = 1, D:/final_project/MY_REPO/SerialTransmitter.vhd
+source_file = 1, D:/final_project/MY_REPO/db/SerialTransmitter.cbx.xml
 source_file = 1, d:/quartus lab/12.1sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
 source_file = 1, d:/quartus lab/12.1sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
 source_file = 1, d:/quartus lab/12.1sp1/quartus/libraries/vhdl/ieee/timing_b.vhd

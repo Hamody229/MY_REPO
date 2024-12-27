@@ -24,7 +24,7 @@
 (DELAYFILE
   (SDFVERSION "2.1")
   (DESIGN "SerialTransmitter")
-  (DATE "12/27/2024 13:41:48")
+  (DATE "12/27/2024 18:00:08")
   (VENDOR "Altera")
   (PROGRAM "Quartus II 32-bit")
   (VERSION "Version 12.1 Build 243 01/31/2013 Service Pack 1 SJ Web Edition")

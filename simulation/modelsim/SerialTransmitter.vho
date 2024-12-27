@@ -16,7 +16,7 @@
 -- PROGRAM "Quartus II 32-bit"
 -- VERSION "Version 12.1 Build 243 01/31/2013 Service Pack 1 SJ Web Edition"
 
--- DATE "12/27/2024 13:41:48"
+-- DATE "12/27/2024 18:00:08"
 
 -- 
 -- Device: Altera EPM7064SLC44-10 Package PLCC44
